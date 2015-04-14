@@ -1,6 +1,7 @@
 ######################################################################################
-# Custom Developed Module for Arp Spoofing Prevention Method
-# Developed By piratesecurity 
+# Custom Developed Module for Arp Spoofing Prevention Method.
+# It access host IP and MAC address through linux system commands.
+# Developed By piratesecurity.
 ######################################################################################
 
 import commands
